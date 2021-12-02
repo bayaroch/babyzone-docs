@@ -10,6 +10,8 @@ Expires after every 90 days auto renewal might not work
 
 ### AutoDeploy
 buddy.works
+https://github.com/aderaaij/wp-vercel-deploy-hooks  <--- WP deploy manual or post update
+https://github.com/getshifter/headless-example-nextjs-typescript/blob/3e285bb2c0378c0df035a1e0e98a67cfb42b668b/pages/%5Bslug%5D.tsx#L22-L49  <-- example nextjs getstaticpath getstaticprops WP
 
 
 # FrontEnd
